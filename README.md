@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RadoStef
 - 👀 I’m interested in Web Development and QA.
 - 🌱 I’m currently learning Java Script, PHP.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I do not have any projects at this moment.
+- 📫 Check my https://www.linkedin.com/in/radoslav-stefanov-23344b82/
 
 <!---
 RadoStef/RadoStef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
