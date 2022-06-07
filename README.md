@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadoStef
 - 👀 I’m interested in Web Development and QA.
-- 🌱 I’m currently learning Java Script, PHP.
+- 🌱 I’m currently learning Java Script.
 - 💞️ I do not have any projects at this moment.
 - 📫 Check my https://www.linkedin.com/in/radoslav-stefanov-23344b82/
 
