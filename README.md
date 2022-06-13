@@ -1,4 +1,4 @@
-<marquee> Hi, I’m @RadoStef from Pomorie, Bulgaria. </marquee>
+  <b> Hi, I’m @RadoStef from Pomorie, Bulgaria. </b>
 - 👀 I’m interested in Web Development, especially Front End and QA. 
 - 🌱 I’m currently learning Java Script.
 - 💞️ I work on one project, an informational website about the city I live. I will commit the code soon.
