@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RadoStef from Pomorie, Bulgaria.
 - 👀 I’m interested in Web Development, especially Front End and QA. 
-- 🌱 I’m currently learning Java Script and the next step will be React.
-- 💞️ I work on one project currently, an informational website about the city I live. 
+- 🌱 I’m currently learning Java Script.
+- 💞️ I work on one project, an informational website about the city I live. I will commit the code soon.
 - 📫 Check my https://www.linkedin.com/in/radoslav-stefanov-23344b82/
 
 
