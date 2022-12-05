@@ -17,8 +17,7 @@
   <li>https://github.com/RadoStef/bulstat-catcher</li>
  </ul>
  <p> 👁👁 Some Wordpress + WooCommerce experiene in the link below:</p>
+      https://sitefocus.eu
  <p>Note: This is my project made for the graduation of WebDevelopment academy (NetIt). It is a car service website and tyres shop.</p> 
- <ul>
-   <li>https://sitefocus.eu</li>
- </ul>
- <p>React projects are coming soon 🙂 </p>
+
+ <p>  -- React projects are coming soon 🙂 </p>
