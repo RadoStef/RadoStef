@@ -14,6 +14,7 @@
  <p> 👁👁 For some JS projects: </p>
  <ul>
   <li>https://github.com/RadoStef/JS-BlackJack-Scrimba-reworked</li>
+  <li>https://github.com/RadoStef/JS-guess-the-number</li>
   <li>https://github.com/RadoStef/bulstat-catcher</li>
  </ul>
  <p> 👁👁 Some Wordpress + WooCommerce experiene in the link below:</p>
