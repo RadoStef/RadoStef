@@ -4,6 +4,8 @@
 - 🌊 I live by the sea, and currently, I am working on an informational website about the city I live. The project is made with React.
 - 📫 Want to contact me... Check my https://www.linkedin.com/in/radoslav-stefanov-23344b82/
 - For many other things, please browse my public repos. I am trying to have a good readme on everything I make. 🙂
+## 👁👁 Pomorie-info React project... check the following repo:
+> - https://github.com/RadoStef/pomorie-info-react-MyDemo
 ## 👁👁 HTML and CSS (LESS) projects... check the following repos:
 > - https://github.com/RadoStef/eva-pomorie
 > - https://github.com/RadoStef/velikovi-gh
@@ -19,7 +21,6 @@
 > - https://sitefocus.eu
 ### Note: This is my project made for the graduation of WebDevelopment academy (NetIt). It is a car service website and tires shop.
 
- <p>  -- React projects are coming soon 🙂 </p>
 <hr>
 <div>
  <img src='https://sitefocus.eu/radoslav/html.png'>
