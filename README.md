@@ -8,12 +8,7 @@
 ## 👁👁 My React projects... check the following repos:
 > - https://github.com/RadoStef/pomorie-info-react-MyDemo - the newest one, still in development
 > - https://github.com/RadoStef/save-cats-MUI-react-project - one of my first projects, when I was still learning React concepts
-## 👁👁 HTML and CSS (LESS) projects... check the following repos:
-> - https://github.com/RadoStef/eva-pomorie
-> - https://github.com/RadoStef/velikovi-gh
-> - https://github.com/RadoStef/mebeli-masiv
-> - https://github.com/RadoStef/pomorie-info
-> - https://github.com/RadoStef/sitefocus
+
 ## 👁👁 For some JS projects: </p> Most of these repos are old, so I will probably refactor them a little bit.
 > - https://github.com/RadoStef/JS-BlackJack-Scrimba-reworked
 > - https://github.com/RadoStef/JS-guess-the-number
