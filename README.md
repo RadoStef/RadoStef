@@ -6,7 +6,7 @@
 - For many other things, please browse my public repos. I am trying to have a good readme on everything I make. 🙂
 - 
 ## 👁👁 My React projects... check the following repos:
-> - https://github.com/RadoStef/pomorie-info-react-MyDemo - the newest one, still in development
+> - https://github.com/RadoStef/pomorieInfo-react-deploy - webpage deployed on https://pomorie-info.com
 > - https://github.com/RadoStef/save-cats-MUI-react-project - one of my first projects, when I was still learning React concepts
 
 ## 👁👁 For some JS projects: </p> Most of these repos are old, so I will probably refactor them a little bit.
