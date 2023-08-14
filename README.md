@@ -4,7 +4,7 @@
 - 🌊 I live by the sea, and currently, I am working on an informational website about the city I live. The project is made with React, check the pinned one or browse https://pomorie-info.com
 - 📫 Want to contact me... Check my https://www.linkedin.com/in/radoslav-stefanov-23344b82/
 - For many other things, please browse my public repos. I am trying to have a good readme on everything I make. 🙂
-- 
+  
 ## 👁👁 My React projects... check the following repos:
 > - https://github.com/RadoStef/pomorieInfo-react-deploy - webpage deployed on https://pomorie-info.com
 > - https://github.com/RadoStef/save-cats-MUI-react-project - one of my first projects, when I was still learning React concepts
