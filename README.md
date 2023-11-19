@@ -1,6 +1,7 @@
 - 🙂👋🏻 **Hello** , my name is @Radoslav from Pomorie, Bulgaria.
-- 💞️ I’m interested in  UI, and Web Development, especially Front-End with HTML, CSS, JS, and React. 
-- 💻 I’m currently learning and working with JavaScript and React. On my Git profile, you can browse between a few websites that I've made from scratch, with html and css. Also, you can see my React projects already shared in the links below.
+- 💞️ I’m interested in  UI, and Web Development, especially Front-End with HTML, CSS, JS, React and Vue JS. 
+- 💻 I’m currently learning and working with JavaScript, React and Vue. On my Git profile, you can browse between a few websites that I've made from scratch, with html and css. Also, you can see my React projects already shared in the links below.
+- 💻 I In the last two months I created a few projects with Vue JS. 
 - 🌊 I live by the sea, and currently, I am working on an informational website about the city I live. The project is made with React, check the pinned one or browse https://pomorie-info.com
 - 📫 Want to contact me... Check my https://www.linkedin.com/in/radoslav-stefanov-23344b82/
 - For many other things, please browse my public repos. I am trying to have a good readme on everything I make. 🙂
