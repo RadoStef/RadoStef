@@ -14,8 +14,6 @@
 > - https://github.com/RadoStef/JS-BlackJack-Scrimba-reworked
 > - https://github.com/RadoStef/JS-guess-the-number
 > - https://github.com/RadoStef/JS-the-quiz-game
-> - https://github.com/RadoStef/bulstat-catcher
-> - 
 <hr>
 <div>
  <img src='https://sitefocus.eu/radoslav/html.png'>
