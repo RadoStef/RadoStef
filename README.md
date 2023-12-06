@@ -1,19 +1,11 @@
-- 🙂👋🏻 **Hello** , my name is @Radoslav from Pomorie, Bulgaria.
-- 💞️ I’m interested in  UI, and Web Development, especially Front-End with HTML, CSS, JS, React and Vue JS. 
-- 💻 I’m currently learning and working with JavaScript, React and Vue.
-- 💻 In the last two months I created a few projects with Vue JS. 
-- 🌊 I live by the sea, and currently, I am working on an informational website about the city I live. The project is made with React, check the pinned one or browse https://pomorie-info.com
-- 📫 Want to contact me... Check my https://www.linkedin.com/in/radoslav-stefanov-23344b82/
-- For many other things, please browse my public repos. I am trying to have a good readme on everything I make. 🙂
-  
-## 👁👁 My React projects... check the following repos:
-> - https://github.com/RadoStef/pomorie-info-v2 - webpage deployed on https://pomorie-info.com
-> - https://github.com/RadoStef/save-cats-MUI-react-project - one of my first projects, when I was still learning React concepts
+- 🙂👋🏻 Greetings! I'm @Radoslav from the charming town of Pomorie, Bulgaria.
+- 💞️ Passionate about UI and Web Development, particularly Front-End using HTML, CSS, JS, React, and Vue JS.
+- 💻 Currently immersed in continuous learning and working with JavaScript, React, and Vue.
+- 💻 Over the past two months, I've successfully executed several projects using Vue JS.
+- 🌊 Residing by the sea, I'm currently crafting an informative website about my city using React. Feel free to explore the pinned project or visit https://pomorie-info.com.
+- 📫 To get in touch, visit my LinkedIn profile: https://www.linkedin.com/in/radoslav-stefanov-23344b82/
+- Explore my public repositories for more insights; I strive to maintain comprehensive READMEs for all my projects. 🙂
 
-## 👁👁 For some JS projects: </p> Most of these repos are old, so I will probably refactor them a little bit somtime.
-> - https://github.com/RadoStef/JS-BlackJack-Scrimba-reworked
-> - https://github.com/RadoStef/JS-guess-the-number
-> - https://github.com/RadoStef/JS-the-quiz-game
 <hr>
 <div>
  <img src='https://sitefocus.eu/radoslav/html.png'>
