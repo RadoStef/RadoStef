@@ -8,11 +8,11 @@
 
 <hr>
 <div>
+ <img src='https://sitefocus.eu/radoslav/js.png'>
+ <img src='https://sitefocus.eu/radoslav/react.png'>
  <img src='https://sitefocus.eu/radoslav/html.png'>
  <img src='https://sitefocus.eu/radoslav/css.png'>
  <img src='https://sitefocus.eu/radoslav/less.png'>
- <img src='https://sitefocus.eu/radoslav/js.png'>
- <img src='https://sitefocus.eu/radoslav/react.png'>
  <img src='https://sitefocus.eu/radoslav/mui.png'>
 </div>
 <hr>
