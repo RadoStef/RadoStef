@@ -1,10 +1,10 @@
-- 🙂👋🏻 Greetings! I'm @Radoslav from the charming town of Pomorie, Bulgaria.
-- 💞️ Front-end developer passionate about UI and Web Development, particularly Front-End using HTML, CSS, JS, React, and Vue JS.
-- 💻 Currently immersed in continuous learning and working with JavaScript, React, and Vue.
+- 🙂👋🏻 Greetings! My name is @Radoslav from the charming town of Pomorie, Bulgaria.
+- 💞️ I am Front-end developer passionate about creating web UI and Web Development, particularly Front-End using HTML, CSS, JS, React, and Vue JS.
+- 💻 Currently immersed in continuous learning and working as a front-end developer, with JavaScript and Vue JS. In my free time I also try to stay tuned to the first framework Ive ever learned - React.
 - 💻 Over the past few months, I've successfully executed several projects using Vue JS.
-- 🌊 Residing by the sea, Ive crafted an informative website about my city using React, but currently building and migrating it to Vue. Feel free to explore the pinned project or visit https://pomorie-info.com.
+- 🌊 Residing by the sea, Ive crafted an informative website about my city using React, but currently I am refactoring and migrating it to Vue. Feel free to explore the pinned project or visit https://pomorie-info.com.
 - 📫 To get in touch, visit my LinkedIn profile: https://www.linkedin.com/in/radoslav-stefanov-23344b82/
-- Explore my public repositories for more insights; I strive to maintain comprehensive READMEs for all my projects. 🙂
+- Explore my public repositories for more insights; Most of them are quite old, the inerresting ones are private. I strive to maintain comprehensive READMEs for all my projects, which are public. 🙂
 
 <hr>
 <div>
