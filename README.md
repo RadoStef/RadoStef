@@ -4,7 +4,6 @@
 - 💻 Over the past few months, I've successfully executed several projects using Vue JS.
 - 🌊 Residing by the sea, Ive crafted an informative website about my city using React, but currently I am refactoring and migrating it to Vue. Feel free to explore the pinned project or visit https://pomorie-info.com.
 - 📫 To get in touch, visit my LinkedIn profile: https://www.linkedin.com/in/radoslav-stefanov-23344b82/
-- Explore my public repositories for more insights; Most of them are quite old, the inerresting ones are private. I strive to maintain comprehensive READMEs for all public repositories. 🙂
 
 <hr>
 <div>
