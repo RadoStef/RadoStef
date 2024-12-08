@@ -3,7 +3,6 @@
 - 💻 Currently immersed in continuous learning and working as a front-end developer, with JavaScript and Vue JS. In my free time I also try to stay tuned to the first framework Ive ever learned - React.
 - 💻 Over the past few months, I've successfully executed several projects using Vue JS.
 - 🌊 Residing by the sea, Ive crafted an informative website about my city using React, but currently I am refactoring and migrating it to Vue. Feel free to explore the pinned project or visit https://pomorie-info.com.
-- 📫 To get in touch, visit my LinkedIn profile: https://www.linkedin.com/in/radoslav-stefanov-23344b82/
 
 <hr>
 <div>
