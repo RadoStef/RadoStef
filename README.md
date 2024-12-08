@@ -1,8 +1,10 @@
-- 🙂👋🏻 Greetings! My name is @Radoslav from the charming town of Pomorie, Bulgaria.
-- 💞️ I am Front-end developer passionate about creating web UI, websites and web apps, particularly the Front-End part using HTML, CSS, JS, React, and Vue JS.
-- 💻 Currently immersed in continuous learning and working as a front-end developer, with JavaScript and Vue JS. In my free time I also try to stay tuned to the first framework Ive ever learned - React.
-- 💻 Over the past few months, I've successfully executed several projects using Vue JS.
-- 🌊 Residing by the sea, Ive crafted an informative website about my city using React, but currently I am refactoring and migrating it to Vue. Feel free to explore the pinned project or visit https://pomorie-info.com.
+👋 Hi there! Welcome to my profile!
+🙂 My name is Radoslav, and I hail from the charming town of Pomorie, Bulgaria.
+💞️ I’m a passionate Web Developer focused on creating engaging web UIs, websites, and web apps, specializing in Front-End development with HTML, CSS, JavaScript, React, and Vue.js.
+💻 Currently, I work as a Front-End Developer, primarily using JavaScript and Vue.js, while also dabbling in Back-End development with technologies like C# .NET Core, Entity Framework API, Microsoft SQL Server, Firebase, and Supabase.
+🧑‍💻 In my spare time, I stay connected to the first JavaScript framework I ever learned—React.
+📱 I’m also working on building a mobile app using FlutterFlow.
+🌊 Living by the sea, I’ve created an informative website about my hometown. Originally built with React, I’m currently refactoring and migrating it to Vue.js. Check out the pinned project or visit pomorie-info.com.
 
 <hr>
 <div>
